@@ -5410,7 +5410,7 @@ a.close.disabled {
   width: 100%;
 }
 .modal__content{
-  background-image: url(/Users/taishiarakaki/Desktop/startbootstrap-resume-gh-pages/img/photo-1585758874546-c593da5f29e7.jpeg);
+  background-image: url(https://images.unsplash.com/photo-1585758874546-c593da5f29e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80);
   background-color:rgba(255,255,255,0.3);
   background-blend-mode:lighten;
   left: 50%;
@@ -10141,7 +10141,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 100rem;
-  background-image: url(/Users/taishiarakaki/Desktop/startbootstrap-resume-gh-pages/img/photo-1585758874546-c593da5f29e7.jpeg);
+  background-image: url(https://images.unsplash.com/photo-1585758874546-c593da5f29e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
