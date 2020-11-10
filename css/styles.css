@@ -10140,13 +10140,13 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 100rem;
-  background-image: url(/Users/taishiarakaki/Desktop/startbootstrap-resume-gh-pages/img/photo-1585758874546-c593da5f29e7.jpeg);
-  background-position: center center;
+  /* max-width: 100rem; */
+  background-image: url(../img/bg-img.jpeg);
+  /* background-position: center center; */
   background-size: cover;
   background-attachment: fixed;
   background-color: rgba(255, 255, 255, 0);
-  background-blend-mode: lighten;  
+  background-blend-mode: lighten;
 }
 section.resume-section .resume-section-content {
   width: 100%;
