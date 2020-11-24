@@ -5410,7 +5410,7 @@ a.close.disabled {
   width: 100%;
 }
 .modal__content{
-  background-image: url(img/bg-img.jpeg);
+  background-image: url(../img/bg-img.jpeg);
   background-color:rgba(255,255,255,0.3);
   background-blend-mode:lighten;
   left: 50%;
